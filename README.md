@@ -1,4 +1,4 @@
-<h1 align="left">Ewerton Palma Fontest</h1>
+<h1 align="left">Ewerton Palma Fontes</h1>
 
 <p align="center">
   <img src="https://media1.tenor.com/m/0Akz_GWDQyQAAAAC/star-wars-hello-there.gif" width="350">
@@ -12,6 +12,14 @@ Sou Dev no mercado há aproximadamente 7 anos, comecei no frontend com JS e Reac
  <p align="left">💻 Sou formado em Sistemas de Informação e pós graduado em desenvolvimento Agil para aplicações WEB e Mobile;</p>
  <p align="left">📚 Tenho trabalhado e estudado com Pyton nos ultimos 3 anos</p>
  <p align="left">🎮 Nas horas vagas adoro jogar alguns games (Virtual, TCG, Board), ler, ouvir musica e tocar batera e claro nadar</p>
+
+ <p align="right">
+  <a href="https://github.com/EwertonFontes">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/? 
+  username=EwertonFontes&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api? 
+  username=EwertonFontes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ </p>
 </div>
 
 <div>
