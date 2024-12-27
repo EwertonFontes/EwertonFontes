@@ -4,7 +4,7 @@
   <img src="https://media1.tenor.com/m/0Akz_GWDQyQAAAAC/star-wars-hello-there.gif" width="350">
 </p>
 
-<h5>Sejam bem vindo ao meu GitHub!</h5>
+<h4>Sejam bem vindo ao meu GitHub!</h4>
 <p>Me chamo Ewerton Palma Fontes, nascido em 91, sou natural de Pouso Alegre mas resido na pequena cidade de Estiva no sul de Minas Gerais, adoro um café com pão de queijo e bolo de fubá, apesar de viver nas montanhas sou competidor de nado em mar aberto e agua doce, adoro nadar alguns KMs.</p>
 <p>Sou Dev no mercado há aproximadamente 7 anos, comecei no frontend com JS e React e hoje em dia sou mais focado com backend em Python.</p>
 
