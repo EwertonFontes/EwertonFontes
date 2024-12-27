@@ -1,10 +1,18 @@
+<h1 align="left">Ewerton Palma Fontest</h1>
+
 <p align="center">
   <img src="https://media1.tenor.com/m/0Akz_GWDQyQAAAAC/star-wars-hello-there.gif" width="350">
 </p>
 
 Sejam bem vindo ao meu GitHub!
-Me chamo Ewerton Palma Fontes, sou natural de Pouso Alegre mas resido na pequena cidade de Estiva no sul de Minas Gerais, adoro um café com pão de queijo e bolo de fubá, apesar de viver nas montanhas sou competidor de nado em mar aberto e agua doce, adoro nadar alguns KMs.
+Me chamo Ewerton Palma Fontes, nascido em 91, sou natural de Pouso Alegre mas resido na pequena cidade de Estiva no sul de Minas Gerais, adoro um café com pão de queijo e bolo de fubá, apesar de viver nas montanhas sou competidor de nado em mar aberto e agua doce, adoro nadar alguns KMs.
 Sou Dev no mercado há aproximadamente 7 anos, comecei no frontend com JS e React e hoje em dia sou mais focado com backend em Python.
+
+<div display="inline-block">
+ <p align="left">💻 Sou formado em Sistemas de Informação e pós graduado em desenvolvimento Agil para aplicações WEB e Mobile;</p>
+ <p align="left">📚 Tenho trabalhado e estudado com Pyton nos ultimos 3 anos</p>
+ <p align="left">🎮 Nas horas vagas adoro jogar alguns games (Virtual, TCG, Board), ler, ouvir musica e tocar batera e claro nadar</p>
+</div>
 
 <div>
 <a href="https://github.com/EwertonFontes">
