@@ -10,7 +10,7 @@
 
 <div display="inline-block">
  <p align="left">💻 Sou formado em Sistemas de Informação e pós graduado em desenvolvimento Agil para aplicações WEB e Mobile;</p>
- <p align="left">📚 Tenho trabalhado e estudado com Python nos ultimos 3 anos</p>
+ <p align="left">📚 Tenho trabalhado e estudado Python nos ultimos 3 anos</p>
  <p align="left">🎮 Nas horas vagas adoro jogar alguns games (Virtual, TCG, Board), ler, ouvir musica e tocar batera e claro nadar</p>
 </div>
 
