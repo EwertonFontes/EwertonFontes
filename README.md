@@ -4,26 +4,24 @@
   <img src="https://media1.tenor.com/m/0Akz_GWDQyQAAAAC/star-wars-hello-there.gif" width="350">
 </p>
 
-Sejam bem vindo ao meu GitHub!
-Me chamo Ewerton Palma Fontes, nascido em 91, sou natural de Pouso Alegre mas resido na pequena cidade de Estiva no sul de Minas Gerais, adoro um café com pão de queijo e bolo de fubá, apesar de viver nas montanhas sou competidor de nado em mar aberto e agua doce, adoro nadar alguns KMs.
-Sou Dev no mercado há aproximadamente 7 anos, comecei no frontend com JS e React e hoje em dia sou mais focado com backend em Python.
+<h6>Sejam bem vindo ao meu GitHub!</h6>
+<p>Me chamo Ewerton Palma Fontes, nascido em 91, sou natural de Pouso Alegre mas resido na pequena cidade de Estiva no sul de Minas Gerais, adoro um café com pão de queijo e bolo de fubá, apesar de viver nas montanhas sou competidor de nado em mar aberto e agua doce, adoro nadar alguns KMs.</p>
+<p>Sou Dev no mercado há aproximadamente 7 anos, comecei no frontend com JS e React e hoje em dia sou mais focado com backend em Python.</p>
 
 <div display="inline-block">
  <p align="left">💻 Sou formado em Sistemas de Informação e pós graduado em desenvolvimento Agil para aplicações WEB e Mobile;</p>
  <p align="left">📚 Tenho trabalhado e estudado com Pyton nos ultimos 3 anos</p>
  <p align="left">🎮 Nas horas vagas adoro jogar alguns games (Virtual, TCG, Board), ler, ouvir musica e tocar batera e claro nadar</p>
+</div>
 
- <p align="right"><div>
+## Principais Stacks
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" />
+
+<p align="center"><div>
 <a href="https://github.com/EwertonFontes">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EwertonFontes&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=EwertonFontes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div></p>
-</div>
-
-
-          
-## Principais Stacks
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" />
 
 ## Contato
 <div>
